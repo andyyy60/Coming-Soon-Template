@@ -6,6 +6,11 @@
   font-family: "Barlow", sans-serif;
   align-content: center;
 }
+.main_bg {
+  background: linear-gradient(
+    95deg
+    ,#974d37,#181e41 50%);  
+}
 
 .timer-box-num {
   font-size: 30pt;
