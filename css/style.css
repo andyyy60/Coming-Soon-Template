@@ -54,3 +54,6 @@ input:-webkit-autofill:active {
   max-width: 960px;
 
 }
+.social-icon {
+  font-size: 200%;
+}
